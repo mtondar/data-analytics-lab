@@ -1,4 +1,4 @@
-# Day01 - Python Basics for Water Data Analysis
+# Day01 - Python Basics for Water Data Analysis Bootcamp
 
 # Print example
 print("Hello Water Data")
